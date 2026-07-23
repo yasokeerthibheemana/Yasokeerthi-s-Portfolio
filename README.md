@@ -19,8 +19,7 @@ A modern and responsive portfolio website showcasing my skills, projects, experi
 - Vite
 
 ## Live Demo
-Add your deployed portfolio link here.
-
+https://yasokeerthi-s-portfolio.vercel.app/portfolio.html
 ## Author
 Yasokeerthi Bheemana
 GitHub: https://github.com/yasokeerthibheemana
